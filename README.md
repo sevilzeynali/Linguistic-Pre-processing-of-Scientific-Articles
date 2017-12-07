@@ -1,4 +1,4 @@
-# Linguistic Pre-processing of scientific articles
+# Linguistic Pre-processing Of Scientific Articles
 
 This is a program in Python for preprocessing the text before keyword extraction or classification or other processing. It uses Python [nltk](http://www.nltk.org/) library.
 
